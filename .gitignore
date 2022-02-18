@@ -24,3 +24,7 @@ hs_err_pid*
 
 # target folder
 target
+
+#files
+.idea/jarRepositories.xml
+.idea/misc.xml
